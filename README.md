@@ -2,8 +2,6 @@
 
 **Discover Palestine** is a Flutter-based AI-powered chat application designed to help users explore the rich heritage, culture, and history of Palestine. The app integrates **speech-to-text**, **text-to-speech**, and **AI-powered chat** functionalities to provide an interactive and engaging experience. Users can ask questions, upload images, and receive detailed responses about Palestinian landmarks, traditions, and more.
 
----
-
 ## Features
 
 1. **AI-Powered Chat**:
