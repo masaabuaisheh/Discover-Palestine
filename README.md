@@ -28,7 +28,6 @@
    - Smooth scrolling and real-time updates for chat messages.
    - Block sending messages while waiting for a response to avoid spamming.
 
----
 
 ## Screenshots 
 
@@ -54,8 +53,6 @@ To run this project locally, follow these steps:
    flutter run
    ```
 
----
-
 ## Dependencies 
 
 This project uses the following packages:
@@ -65,8 +62,6 @@ This project uses the following packages:
 - `image_picker`: For uploading images from the gallery.
 - `http`: For making API requests to ChatGPT and image upload services.
 - `path_provider`: For handling temporary file storage.
-
----
 
 ## Configuration 
 
@@ -81,7 +76,6 @@ To use the ChatGPT and image upload services, you need to configure your API key
    - Replace the `copilotApiKey` in `lib/openai_service.dart` with your RapidAPI key.
    - Update the `copilotApiHost` if necessary.
 
----
 
 ## Usage 
 
@@ -100,7 +94,6 @@ To use the ChatGPT and image upload services, you need to configure your API key
    - Scroll up to view previous messages.
    - The app bar changes color as you scroll.
 
----
 
 ## Contributing
 
