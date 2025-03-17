@@ -29,12 +29,11 @@
    - Block sending messages while waiting for a response to avoid spamming.
 
 
-## Screenshots 
+### Screenshots
 
-![484652780_648157727934404_394591025684957253_n](https://github.com/user-attachments/assets/d513c42d-4542-4d9d-a729-dce64856be56)
-
-
-![483493868_1297693634861004_123001980398530982_n](https://github.com/user-attachments/assets/7681c525-0860-4a9b-befc-11eea834dc9b)
+| Screenshot 1 | Screenshot 2 |
+|--------------|--------------|
+| <img src="https://github.com/user-attachments/assets/d513c42d-4542-4d9d-a729-dce64856be56" alt="Screenshot 1" width="300" /> | <img src="https://github.com/user-attachments/assets/7681c525-0860-4a9b-befc-11eea834dc9b" alt="Screenshot 2" width="300" /> |
 
 
 ## Installation 
