@@ -34,7 +34,7 @@
 
 
 
-## Installation 🛠
+## Installation 
 
 To run this project locally, follow these steps:
 
