@@ -31,6 +31,10 @@
 
 ## Screenshots 
 
+![484652780_648157727934404_394591025684957253_n](https://github.com/user-attachments/assets/d513c42d-4542-4d9d-a729-dce64856be56)
+
+
+![Uploading 483493868_1297693634861004_123001980398530982_n.jpg…]()
 
 
 ## Installation 
